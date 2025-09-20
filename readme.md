@@ -1,3 +1,5 @@
+⚠️db.sqlite3 should be in .gitignore, it was added for the purpose of facilitating local testing
+
 Run Server: 
 ```bash 
     python manage.py runserver
