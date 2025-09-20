@@ -1,5 +1,11 @@
-Run Server: python manage.py runserver
-Create module: python manage.py startapp [module_name]
+Run Server: 
+```bash 
+    python manage.py runserver
+````
+Create module: 
+```bash 
+    python manage.py startapp [module_name]
+````
 
 To add more fields to an existing model in Django
 Here's the detailed process:
